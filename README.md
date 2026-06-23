@@ -10,6 +10,8 @@
     Website 🚀 <a href="https://contributte.org">contributte.org</a> | Contact 👨🏻‍💻 <a href="https://f3l1x.io">f3l1x.io</a> | Twitter 🐦 <a href="https://twitter.com/contributte">@contributte</a>
 </p>
 
+ThePay API is a PHP client for integrating ThePay payment gateway APIs and helpers.
+
 ## Disclaimer
 
 | :warning: | This project is no longer being maintained. Please use [contributte/thepay](https://github.com/contributte/thepay).|
@@ -21,17 +23,7 @@
 | PHP | ![](https://badgen.net/packagist/php/contributte/thepay-api) |
 | License | ![](https://badgen.net/github/license/contributte/thepay-api) |
 
-## Usage
-
-To install the latest version of `contributte/thepay-api` use [Composer](https://getcomposer.org).
-
-```bash
-composer require contributte/thepay-api
-```
-
-## Documentation
-
-You can find an official documentation with examples here [https://www.thepay.cz/ke-stazeni/](https://www.thepay.cz/ke-stazeni/)
+ThePay's official documentation and examples are available at [thepay.cz/ke-stazeni](https://www.thepay.cz/ke-stazeni/).
 
 ## Versions
 
@@ -41,6 +33,14 @@ You can find an official documentation with examples here [https://www.thepay.cz
 | stable      | `^4.0`  | `master` | `>= 7.1` |
 | stable      | `^3.0`  | `master` | `>= 5.6` |
 | stable      | `^2.3`  | `master` | `>= 5.6` |
+
+## Usage
+
+To install the latest version of `contributte/thepay-api` use [Composer](https://getcomposer.org).
+
+```bash
+composer require contributte/thepay-api
+```
 
 ## Development
 
